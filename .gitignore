@@ -1,0 +1,15 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+temp/
+
+# Ignore configuration files
+*.env
+*.ini
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
